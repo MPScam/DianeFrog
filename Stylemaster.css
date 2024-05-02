@@ -45,5 +45,5 @@ p {
 }
 
 body {
-  background-color: Gainsboro;
+  background: linear-gradient(0, #eca0ff, #84ffc9);
 }
