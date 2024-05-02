@@ -1,9 +1,10 @@
 h1 {
-  color: black;
+  color: #fe218b;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 40px;
-  background-color:CornflowerBlue;
+  background-color:#21b0fe;
+  text-shadow: 0 0 3px #fed700, 0 0 5px #fed700F;
 }
 h2 {
   color: black;
@@ -36,7 +37,7 @@ h6 {
   background-color: CornflowerBlue;  
 }
 p {
-  color: black;
+  color: #4C0334;
   text-align: center;
   font-family: "Courier New", Times, serif;
   font-size: 12px;
