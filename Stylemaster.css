@@ -1,15 +1,46 @@
 h1 {
-color: black;
-text-align: center;
-font-family: "Garamond", serif;
-font-size: 40px;
-background-color:CornflowerBlue;
+  color: black;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 40px;
+  background-color:CornflowerBlue;
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-color: CornflowerBlue;  
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-color: CornflowerBlue;  
+}
+h4 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-color: CornflowerBlue;  
+}
+h5 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-color: CornflowerBlue;  
+}
+h6 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-color: CornflowerBlue;  
 }
 p {
-color: black;
-text-align: center;
-font-family: "Courier New", Times, serif;
-background-color: Gainsboro;
+  color: black;
+  text-align: center;
+  font-family: "Courier New", Times, serif;
+  font-size: 12px;
+  background-color: Gainsboro;
 }
 
 body {
