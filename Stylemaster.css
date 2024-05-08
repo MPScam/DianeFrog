@@ -4,9 +4,8 @@ h1 {
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 60px;
-  background: linear-gradient(90, #fed700, #21b0fe);
+  background-image: linear-gradient(to top, #f8f8f8, #e5f6ff, #b4fbff, #82fffe, #84ffc9);
   
-  <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
 }
 h2 {
   color: black;
@@ -48,5 +47,5 @@ p {
 }
 
 body {
-  background: linear-gradient(0, #eca0ff, #84ffc9);
+  background-image: linear-gradient(to bottom, #f8f8f8, #ede5ff, #e8d0ff, #e8b9ff, #eca0ff);
 }
