@@ -41,9 +41,10 @@ h6 {
 p {
   color: #4C0334;
   text-align: center;
+  text-align: justify;
   font-family: "Courier New", Times, serif;
   font-size: 18px;
-  width: 80%;
+  width: 70%;
   
 }
 
